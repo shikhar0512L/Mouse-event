@@ -1,0 +1,32 @@
+ /* STARTING CSS */
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+.link{
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+*{
+    font-family: 'Ubuntu', sans-serif;
+    /* background-image: url(pexels-pierre-blaché-3369102.jpg) no-repeat center center ; */
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
